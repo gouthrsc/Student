@@ -8,6 +8,7 @@ package student;
 /**for pull
  *this is commment added
  *This comment was added from github on feb 5th 2:36pmto cehck fetch adn merge
+ *This comment is to check pull
  * @author Ronak
  */
 public class Student {
